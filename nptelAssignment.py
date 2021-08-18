@@ -64,5 +64,3 @@ def shuffle(l1,l2):
         return newList
     print(newList)
     return newList
-
-print(delchar("banana","a"))
